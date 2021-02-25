@@ -1,0 +1,4 @@
+.idea
+db.sqlite3
+migrations
+simple_MVC_django/local_settings.py
